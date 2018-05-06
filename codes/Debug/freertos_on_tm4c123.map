@@ -1,0 +1,1400 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                              ./drivers/rgb.o (SysCtlClockGet)
+/home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+                              /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o) (CPUwfi)
+/home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                              /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o) (IntRegister)
+/home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_fixunssfdi.o)
+                              ./drivers/rgb.o (__aeabi_f2ulz)
+/home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_arm_addsubdf3.o)
+                              /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_fixunssfdi.o) (__aeabi_dsub)
+/home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_arm_muldivdf3.o)
+                              /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_fixunssfdi.o) (__aeabi_dmul)
+/home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_arm_fixunsdfsi.o)
+                              /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_fixunssfdi.o) (__aeabi_d2uiz)
+/home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-exit.o)
+                              /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o (exit)
+/home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-impure.o)
+                              /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-exit.o) (_global_impure_ptr)
+/home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-init.o)
+                              /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o (__libc_init_array)
+/home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-memcpy.o)
+                              ./FreeRTOS/queue.o (memcpy)
+/home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-memset.o)
+                              /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o (memset)
+/home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-__call_atexit.o)
+                              /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-exit.o) (__call_exitprocs)
+/home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-atexit.o)
+                              /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-__call_atexit.o) (atexit)
+/home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-fini.o)
+                              /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-__call_atexit.o) (__libc_fini_array)
+/home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-lock.o)
+                              /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-__call_atexit.o) (__retarget_lock_acquire_recursive)
+/home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-__atexit.o)
+                              /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-atexit.o) (__register_exitproc)
+/home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(_exit.o)
+                              /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-exit.o) (_exit)
+
+Allocating common symbols
+Common symbol       size              file
+
+g_pLEDQueue         0x4               ./led_task.o
+__lock___atexit_recursive_mutex
+                    0x1               /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-lock.o)
+__lock___arc4random_mutex
+                    0x1               /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-lock.o)
+xQueueRegistry      0x28              ./FreeRTOS/queue.o
+__lock___env_recursive_mutex
+                    0x1               /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-lock.o)
+__lock___sinit_recursive_mutex
+                    0x1               /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-lock.o)
+__lock___malloc_recursive_mutex
+                    0x1               /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-lock.o)
+g_pULTRA2Queue      0x4               ./ultrasonic2.o
+startTick           0x4               ./ultrasonic2.o
+g_pUARTSemaphore    0x4               ./freertos_demo.o
+time                0x4               ./ultrasonic2.o
+endTick             0x4               ./ultrasonic2.o
+deltaTick           0x4               ./ultrasonic2.o
+g_pSENSORQueue      0x4               ./sensor_pwm.o
+__lock___at_quick_exit_mutex
+                    0x1               /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-lock.o)
+__lock___dd_hash_mutex
+                    0x1               /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-lock.o)
+__lock___tz_mutex   0x1               /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-lock.o)
+__lock___sfp_recursive_mutex
+                    0x1               /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-lock.o)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+ .data          0x0000000000000000        0x0 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+ .bss           0x0000000000000000        0x0 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+ .data          0x0000000000000000        0x4 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .fini_array    0x0000000000000000        0x4 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .text          0x0000000000000000       0x74 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+ .data          0x0000000000000000        0x0 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+ .bss           0x0000000000000000        0x0 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+ .ARM.extab     0x0000000000000000        0x0 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+ .ARM.exidx     0x0000000000000000        0x8 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+ .ARM.attributes
+                0x0000000000000000       0x20 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+ .text          0x0000000000000000        0x0 ./freertos_demo.o
+ .data          0x0000000000000000        0x0 ./freertos_demo.o
+ .bss           0x0000000000000000        0x0 ./freertos_demo.o
+ COMMON         0x0000000000000000        0x4 ./freertos_demo.o
+ .text          0x0000000000000000        0x0 ./led_task.o
+ .data          0x0000000000000000        0x0 ./led_task.o
+ .bss           0x0000000000000000        0x0 ./led_task.o
+ .text.LEDTask  0x0000000000000000       0xdc ./led_task.o
+ .text.LEDTaskInit
+                0x0000000000000000       0x80 ./led_task.o
+ .bss.g_pui32Colors
+                0x0000000000000000        0xc ./led_task.o
+ .bss.g_ui8ColorsIndx
+                0x0000000000000000        0x1 ./led_task.o
+ .rodata.LEDTask.str1.1
+                0x0000000000000000       0x41 ./led_task.o
+ .rodata.LEDTaskInit.str1.1
+                0x0000000000000000       0x24 ./led_task.o
+ .debug_info    0x0000000000000000      0x194 ./led_task.o
+ .debug_abbrev  0x0000000000000000       0xc9 ./led_task.o
+ .debug_loc     0x0000000000000000       0x26 ./led_task.o
+ .debug_aranges
+                0x0000000000000000       0x28 ./led_task.o
+ .debug_ranges  0x0000000000000000       0x18 ./led_task.o
+ .debug_line    0x0000000000000000      0x22e ./led_task.o
+ .debug_str     0x0000000000000000      0x2be ./led_task.o
+ .comment       0x0000000000000000       0x80 ./led_task.o
+ .debug_frame   0x0000000000000000       0x4c ./led_task.o
+ .ARM.attributes
+                0x0000000000000000       0x39 ./led_task.o
+ COMMON         0x0000000000000000        0x4 ./led_task.o
+ .text          0x0000000000000000        0x0 ./sensor_pwm.o
+ .data          0x0000000000000000        0x0 ./sensor_pwm.o
+ .bss           0x0000000000000000        0x0 ./sensor_pwm.o
+ .text.DisableInterrupts
+                0x0000000000000000        0x4 ./sensor_pwm.o
+ .text          0x0000000000000000        0x0 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .data          0x0000000000000000        0x0 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .bss           0x0000000000000000        0x0 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .text          0x0000000000000000        0x0 ./uartstdio.o
+ .data          0x0000000000000000        0x0 ./uartstdio.o
+ .bss           0x0000000000000000        0x0 ./uartstdio.o
+ .text.UARTStdioConfig
+                0x0000000000000000       0x64 ./uartstdio.o
+ .text.UARTwrite
+                0x0000000000000000       0x44 ./uartstdio.o
+ .text.UARTgets
+                0x0000000000000000       0x8c ./uartstdio.o
+ .text.UARTgetc
+                0x0000000000000000       0x1c ./uartstdio.o
+ .text.UARTvprintf
+                0x0000000000000000      0x1a8 ./uartstdio.o
+ .text.UARTprintf
+                0x0000000000000000       0x1a ./uartstdio.o
+ .bss.bLastWasCR.5495
+                0x0000000000000000        0x1 ./uartstdio.o
+ .bss.g_ui32Base
+                0x0000000000000000        0x4 ./uartstdio.o
+ .rodata.UARTgets.str1.1
+                0x0000000000000000        0x7 ./uartstdio.o
+ .rodata.UARTvprintf.str1.1
+                0x0000000000000000       0x19 ./uartstdio.o
+ .rodata.g_ui32UARTBase
+                0x0000000000000000        0xc ./uartstdio.o
+ .rodata.g_ui32UARTPeriph
+                0x0000000000000000        0xc ./uartstdio.o
+ .debug_info    0x0000000000000000      0x394 ./uartstdio.o
+ .debug_abbrev  0x0000000000000000      0x14f ./uartstdio.o
+ .debug_loc     0x0000000000000000      0x3ac ./uartstdio.o
+ .debug_aranges
+                0x0000000000000000       0x48 ./uartstdio.o
+ .debug_ranges  0x0000000000000000       0x38 ./uartstdio.o
+ .debug_line    0x0000000000000000      0x311 ./uartstdio.o
+ .debug_str     0x0000000000000000      0x348 ./uartstdio.o
+ .comment       0x0000000000000000       0x80 ./uartstdio.o
+ .debug_frame   0x0000000000000000       0xfc ./uartstdio.o
+ .ARM.attributes
+                0x0000000000000000       0x39 ./uartstdio.o
+ .text          0x0000000000000000        0x0 ./ultrasonic2.o
+ .data          0x0000000000000000        0x0 ./ultrasonic2.o
+ .bss           0x0000000000000000        0x0 ./ultrasonic2.o
+ .text          0x0000000000000000        0x0 ./FreeRTOS/croutine.o
+ .data          0x0000000000000000        0x0 ./FreeRTOS/croutine.o
+ .bss           0x0000000000000000        0x0 ./FreeRTOS/croutine.o
+ .debug_info    0x0000000000000000       0x72 ./FreeRTOS/croutine.o
+ .debug_abbrev  0x0000000000000000       0x26 ./FreeRTOS/croutine.o
+ .debug_aranges
+                0x0000000000000000       0x18 ./FreeRTOS/croutine.o
+ .debug_line    0x0000000000000000       0x1d ./FreeRTOS/croutine.o
+ .debug_str     0x0000000000000000      0x1d9 ./FreeRTOS/croutine.o
+ .comment       0x0000000000000000       0x80 ./FreeRTOS/croutine.o
+ .ARM.attributes
+                0x0000000000000000       0x39 ./FreeRTOS/croutine.o
+ .text          0x0000000000000000        0x0 ./FreeRTOS/event_groups.o
+ .data          0x0000000000000000        0x0 ./FreeRTOS/event_groups.o
+ .bss           0x0000000000000000        0x0 ./FreeRTOS/event_groups.o
+ .text.xEventGroupCreate
+                0x0000000000000000       0x1a ./FreeRTOS/event_groups.o
+ .text.xEventGroupWaitBits
+                0x0000000000000000       0xb0 ./FreeRTOS/event_groups.o
+ .text.xEventGroupClearBits
+                0x0000000000000000       0x1a ./FreeRTOS/event_groups.o
+ .text.xEventGroupGetBitsFromISR
+                0x0000000000000000       0x1c ./FreeRTOS/event_groups.o
+ .text.xEventGroupSetBits
+                0x0000000000000000       0x58 ./FreeRTOS/event_groups.o
+ .text.xEventGroupSync
+                0x0000000000000000       0x8c ./FreeRTOS/event_groups.o
+ .text.vEventGroupDelete
+                0x0000000000000000       0x26 ./FreeRTOS/event_groups.o
+ .text.vEventGroupSetBitsCallback
+                0x0000000000000000        0x4 ./FreeRTOS/event_groups.o
+ .text.vEventGroupClearBitsCallback
+                0x0000000000000000        0x4 ./FreeRTOS/event_groups.o
+ .text.uxEventGroupGetNumber
+                0x0000000000000000        0x6 ./FreeRTOS/event_groups.o
+ .debug_info    0x0000000000000000      0xf82 ./FreeRTOS/event_groups.o
+ .debug_abbrev  0x0000000000000000      0x2de ./FreeRTOS/event_groups.o
+ .debug_loc     0x0000000000000000      0x4e4 ./FreeRTOS/event_groups.o
+ .debug_aranges
+                0x0000000000000000       0x68 ./FreeRTOS/event_groups.o
+ .debug_ranges  0x0000000000000000       0x88 ./FreeRTOS/event_groups.o
+ .debug_line    0x0000000000000000      0x3d3 ./FreeRTOS/event_groups.o
+ .debug_str     0x0000000000000000      0x9a7 ./FreeRTOS/event_groups.o
+ .comment       0x0000000000000000       0x80 ./FreeRTOS/event_groups.o
+ .debug_frame   0x0000000000000000      0x108 ./FreeRTOS/event_groups.o
+ .ARM.attributes
+                0x0000000000000000       0x39 ./FreeRTOS/event_groups.o
+ .text          0x0000000000000000        0x0 ./FreeRTOS/list.o
+ .data          0x0000000000000000        0x0 ./FreeRTOS/list.o
+ .bss           0x0000000000000000        0x0 ./FreeRTOS/list.o
+ .text          0x0000000000000000        0x0 ./FreeRTOS/queue.o
+ .data          0x0000000000000000        0x0 ./FreeRTOS/queue.o
+ .bss           0x0000000000000000        0x0 ./FreeRTOS/queue.o
+ .text.xQueueCreateCountingSemaphore
+                0x0000000000000000       0x12 ./FreeRTOS/queue.o
+ .text.xQueueCreateMutex
+                0x0000000000000000       0x24 ./FreeRTOS/queue.o
+ .text.xQueueGiveMutexRecursive
+                0x0000000000000000       0x28 ./FreeRTOS/queue.o
+ .text.xQueueGiveFromISR
+                0x0000000000000000       0x5c ./FreeRTOS/queue.o
+ .text.xQueueTakeMutexRecursive
+                0x0000000000000000       0x30 ./FreeRTOS/queue.o
+ .text.xQueueReceiveFromISR
+                0x0000000000000000       0x68 ./FreeRTOS/queue.o
+ .text.xQueuePeekFromISR
+                0x0000000000000000       0x30 ./FreeRTOS/queue.o
+ .text.uxQueueMessagesWaiting
+                0x0000000000000000       0x12 ./FreeRTOS/queue.o
+ .text.uxQueueSpacesAvailable
+                0x0000000000000000       0x16 ./FreeRTOS/queue.o
+ .text.uxQueueMessagesWaitingFromISR
+                0x0000000000000000        0x4 ./FreeRTOS/queue.o
+ .text.uxQueueGetQueueNumber
+                0x0000000000000000        0x4 ./FreeRTOS/queue.o
+ .text.vQueueSetQueueNumber
+                0x0000000000000000        0x4 ./FreeRTOS/queue.o
+ .text.ucQueueGetQueueType
+                0x0000000000000000        0x6 ./FreeRTOS/queue.o
+ .text.xQueueIsQueueEmptyFromISR
+                0x0000000000000000        0xa ./FreeRTOS/queue.o
+ .text.xQueueIsQueueFullFromISR
+                0x0000000000000000        0xc ./FreeRTOS/queue.o
+ .text.pcQueueGetName
+                0x0000000000000000       0x24 ./FreeRTOS/queue.o
+ .text.vQueueUnregisterQueue
+                0x0000000000000000       0x28 ./FreeRTOS/queue.o
+ .text.vQueueDelete
+                0x0000000000000000       0x12 ./FreeRTOS/queue.o
+ .text          0x0000000000000000        0x0 ./FreeRTOS/tasks.o
+ .data          0x0000000000000000        0x0 ./FreeRTOS/tasks.o
+ .bss           0x0000000000000000        0x0 ./FreeRTOS/tasks.o
+ .text.prvTaskIsTaskSuspended
+                0x0000000000000000       0x24 ./FreeRTOS/tasks.o
+ .text.vTaskDelete
+                0x0000000000000000       0x98 ./FreeRTOS/tasks.o
+ .text.eTaskGetState
+                0x0000000000000000       0x68 ./FreeRTOS/tasks.o
+ .text.uxTaskPriorityGet
+                0x0000000000000000       0x1c ./FreeRTOS/tasks.o
+ .text.uxTaskPriorityGetFromISR
+                0x0000000000000000       0x28 ./FreeRTOS/tasks.o
+ .text.vTaskPrioritySet
+                0x0000000000000000       0xb0 ./FreeRTOS/tasks.o
+ .text.vTaskResume
+                0x0000000000000000       0x70 ./FreeRTOS/tasks.o
+ .text.xTaskResumeFromISR
+                0x0000000000000000       0x84 ./FreeRTOS/tasks.o
+ .text.vTaskEndScheduler
+                0x0000000000000000       0x20 ./FreeRTOS/tasks.o
+ .text.xTaskGetTickCountFromISR
+                0x0000000000000000        0xc ./FreeRTOS/tasks.o
+ .text.uxTaskGetNumberOfTasks
+                0x0000000000000000        0xc ./FreeRTOS/tasks.o
+ .text.pcTaskGetName
+                0x0000000000000000       0x10 ./FreeRTOS/tasks.o
+ .text.xTaskGetIdleTaskHandle
+                0x0000000000000000        0xc ./FreeRTOS/tasks.o
+ .text.vTaskDelay
+                0x0000000000000000       0x30 ./FreeRTOS/tasks.o
+ .text.vTaskSuspend
+                0x0000000000000000       0x8c ./FreeRTOS/tasks.o
+ .text.vTaskPlaceOnUnorderedEventList
+                0x0000000000000000       0x28 ./FreeRTOS/tasks.o
+ .text.xTaskRemoveFromUnorderedEventList
+                0x0000000000000000       0x58 ./FreeRTOS/tasks.o
+ .text.uxTaskGetTaskNumber
+                0x0000000000000000        0x6 ./FreeRTOS/tasks.o
+ .text.vTaskSetTaskNumber
+                0x0000000000000000        0x6 ./FreeRTOS/tasks.o
+ .text.vTaskSetThreadLocalStoragePointer
+                0x0000000000000000       0x18 ./FreeRTOS/tasks.o
+ .text.pvTaskGetThreadLocalStoragePointer
+                0x0000000000000000       0x1c ./FreeRTOS/tasks.o
+ .text.vTaskGetInfo
+                0x0000000000000000       0x80 ./FreeRTOS/tasks.o
+ .text.prvListTasksWithinSingleList
+                0x0000000000000000       0x5a ./FreeRTOS/tasks.o
+ .text.uxTaskGetSystemState
+                0x0000000000000000       0xa4 ./FreeRTOS/tasks.o
+ .text.xTaskGetCurrentTaskHandle
+                0x0000000000000000        0xc ./FreeRTOS/tasks.o
+ .text.uxTaskResetEventItemValue
+                0x0000000000000000       0x18 ./FreeRTOS/tasks.o
+ .text.ulTaskNotifyTake
+                0x0000000000000000       0x64 ./FreeRTOS/tasks.o
+ .text.xTaskNotifyWait
+                0x0000000000000000       0x8c ./FreeRTOS/tasks.o
+ .text.xTaskGenericNotify
+                0x0000000000000000       0xa4 ./FreeRTOS/tasks.o
+ .text.xTaskGenericNotifyFromISR
+                0x0000000000000000       0xc0 ./FreeRTOS/tasks.o
+ .text.vTaskNotifyGiveFromISR
+                0x0000000000000000       0x98 ./FreeRTOS/tasks.o
+ .text.xTaskNotifyStateClear
+                0x0000000000000000       0x30 ./FreeRTOS/tasks.o
+ .text          0x0000000000000000        0x0 ./FreeRTOS/timers.o
+ .data          0x0000000000000000        0x0 ./FreeRTOS/timers.o
+ .bss           0x0000000000000000        0x0 ./FreeRTOS/timers.o
+ .text.xTimerCreate
+                0x0000000000000000       0x34 ./FreeRTOS/timers.o
+ .text.xTimerGetTimerDaemonTaskHandle
+                0x0000000000000000        0xc ./FreeRTOS/timers.o
+ .text.xTimerGetPeriod
+                0x0000000000000000        0x4 ./FreeRTOS/timers.o
+ .text.xTimerGetExpiryTime
+                0x0000000000000000        0x4 ./FreeRTOS/timers.o
+ .text.pcTimerGetName
+                0x0000000000000000        0x4 ./FreeRTOS/timers.o
+ .text.xTimerIsTimerActive
+                0x0000000000000000       0x18 ./FreeRTOS/timers.o
+ .text.pvTimerGetTimerID
+                0x0000000000000000       0x12 ./FreeRTOS/timers.o
+ .text.vTimerSetTimerID
+                0x0000000000000000       0x14 ./FreeRTOS/timers.o
+ .text          0x0000000000000000        0x0 ./FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .data          0x0000000000000000        0x0 ./FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .bss           0x0000000000000000        0x0 ./FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .text.vPortEndScheduler
+                0x0000000000000000        0x2 ./FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .text          0x0000000000000000        0x0 ./FreeRTOS/portable/MemMang/heap_2.o
+ .data          0x0000000000000000        0x0 ./FreeRTOS/portable/MemMang/heap_2.o
+ .bss           0x0000000000000000        0x0 ./FreeRTOS/portable/MemMang/heap_2.o
+ .text.xPortGetFreeHeapSize
+                0x0000000000000000        0xc ./FreeRTOS/portable/MemMang/heap_2.o
+ .text.vPortInitialiseBlocks
+                0x0000000000000000        0x2 ./FreeRTOS/portable/MemMang/heap_2.o
+ .text          0x0000000000000000        0x0 ./drivers/buttons.o
+ .data          0x0000000000000000        0x0 ./drivers/buttons.o
+ .bss           0x0000000000000000        0x0 ./drivers/buttons.o
+ .text.ButtonsPoll
+                0x0000000000000000       0x80 ./drivers/buttons.o
+ .text.ButtonsInit
+                0x0000000000000000       0x6c ./drivers/buttons.o
+ .bss.ui8SwitchClockA.5442
+                0x0000000000000000        0x1 ./drivers/buttons.o
+ .bss.ui8SwitchClockB.5443
+                0x0000000000000000        0x1 ./drivers/buttons.o
+ .data.g_ui8ButtonStates
+                0x0000000000000000        0x1 ./drivers/buttons.o
+ .debug_info    0x0000000000000000      0x152 ./drivers/buttons.o
+ .debug_abbrev  0x0000000000000000       0x9b ./drivers/buttons.o
+ .debug_loc     0x0000000000000000       0x6d ./drivers/buttons.o
+ .debug_aranges
+                0x0000000000000000       0x28 ./drivers/buttons.o
+ .debug_ranges  0x0000000000000000       0x18 ./drivers/buttons.o
+ .debug_line    0x0000000000000000      0x17b ./drivers/buttons.o
+ .debug_str     0x0000000000000000      0x275 ./drivers/buttons.o
+ .comment       0x0000000000000000       0x80 ./drivers/buttons.o
+ .debug_frame   0x0000000000000000       0x4c ./drivers/buttons.o
+ .ARM.attributes
+                0x0000000000000000       0x39 ./drivers/buttons.o
+ .text          0x0000000000000000        0x0 ./drivers/rgb.o
+ .data          0x0000000000000000        0x0 ./drivers/rgb.o
+ .bss           0x0000000000000000        0x0 ./drivers/rgb.o
+ .text.RGBEnable
+                0x0000000000000000       0xc0 ./drivers/rgb.o
+ .text.RGBInit  0x0000000000000000      0x100 ./drivers/rgb.o
+ .text.RGBDisable
+                0x0000000000000000       0x64 ./drivers/rgb.o
+ .text.RGBBlinkIntHandler
+                0x0000000000000000       0x3c ./drivers/rgb.o
+ .text.RGBColorSet
+                0x0000000000000000       0x8c ./drivers/rgb.o
+ .text.RGBIntensitySet
+                0x0000000000000000       0x14 ./drivers/rgb.o
+ .text.RGBSet   0x0000000000000000       0x1e ./drivers/rgb.o
+ .text.RGBBlinkRateSet
+                0x0000000000000000       0x78 ./drivers/rgb.o
+ .text.RGBColorGet
+                0x0000000000000000       0x14 ./drivers/rgb.o
+ .bss.g_ui32Colors
+                0x0000000000000000        0xc ./drivers/rgb.o
+ .bss.ulFlags.5606
+                0x0000000000000000        0x4 ./drivers/rgb.o
+ .data.g_fIntensity
+                0x0000000000000000        0x4 ./drivers/rgb.o
+ .debug_info    0x0000000000000000      0x269 ./drivers/rgb.o
+ .debug_abbrev  0x0000000000000000      0x109 ./drivers/rgb.o
+ .debug_loc     0x0000000000000000       0xbc ./drivers/rgb.o
+ .debug_aranges
+                0x0000000000000000       0x60 ./drivers/rgb.o
+ .debug_ranges  0x0000000000000000       0x50 ./drivers/rgb.o
+ .debug_line    0x0000000000000000      0x232 ./drivers/rgb.o
+ .debug_str     0x0000000000000000      0x2d4 ./drivers/rgb.o
+ .comment       0x0000000000000000       0x80 ./drivers/rgb.o
+ .debug_frame   0x0000000000000000      0x150 ./drivers/rgb.o
+ .ARM.attributes
+                0x0000000000000000       0x39 ./drivers/rgb.o
+ .text          0x0000000000000000        0x0 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .data          0x0000000000000000        0x0 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .bss           0x0000000000000000        0x0 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text._SysCtlMemTimingGet
+                0x0000000000000000       0x24 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlSRAMSizeGet
+                0x0000000000000000       0x10 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlFlashSizeGet
+                0x0000000000000000       0x3c /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlFlashSectorSizeGet
+                0x0000000000000000       0x38 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlPeripheralPresent
+                0x0000000000000000       0x26 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlPeripheralReady
+                0x0000000000000000       0x26 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlPeripheralPowerOn
+                0x0000000000000000       0x22 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlPeripheralPowerOff
+                0x0000000000000000       0x22 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlPeripheralReset
+                0x0000000000000000       0x3a /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlPeripheralEnable
+                0x0000000000000000       0x22 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlPeripheralDisable
+                0x0000000000000000       0x22 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlPeripheralSleepEnable
+                0x0000000000000000       0x22 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlPeripheralSleepDisable
+                0x0000000000000000       0x22 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlPeripheralDeepSleepEnable
+                0x0000000000000000       0x22 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlPeripheralDeepSleepDisable
+                0x0000000000000000       0x22 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlPeripheralClockGating
+                0x0000000000000000       0x48 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlIntRegister
+                0x0000000000000000       0x14 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlIntUnregister
+                0x0000000000000000       0x12 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlIntEnable
+                0x0000000000000000       0x10 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlIntDisable
+                0x0000000000000000       0x10 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlIntClear
+                0x0000000000000000        0xc /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlIntStatus
+                0x0000000000000000       0x14 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlLDOSleepSet
+                0x0000000000000000        0xc /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlLDOSleepGet
+                0x0000000000000000        0xc /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlLDODeepSleepSet
+                0x0000000000000000        0xc /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlLDODeepSleepGet
+                0x0000000000000000        0xc /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlSleepPowerSet
+                0x0000000000000000        0xc /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlDeepSleepPowerSet
+                0x0000000000000000        0xc /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlReset
+                0x0000000000000000       0x10 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlSleep
+                0x0000000000000000        0x4 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlDeepSleep
+                0x0000000000000000       0x20 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlResetCauseGet
+                0x0000000000000000        0xc /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlResetCauseClear
+                0x0000000000000000       0x10 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlDelay
+                0x0000000000000000        0x8 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlMOSCConfigSet
+                0x0000000000000000        0xc /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlPIOSCCalibrate
+                0x0000000000000000       0x48 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlResetBehaviorSet
+                0x0000000000000000        0xc /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlResetBehaviorGet
+                0x0000000000000000        0xc /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlClockFreqSet
+                0x0000000000000000      0x248 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlClockSet
+                0x0000000000000000      0x11c /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlClockGet
+                0x0000000000000000      0x12c /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlDeepSleepClockSet
+                0x0000000000000000        0xc /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlDeepSleepClockConfigSet
+                0x0000000000000000       0x60 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlPWMClockSet
+                0x0000000000000000       0x14 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlPWMClockGet
+                0x0000000000000000       0x18 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlGPIOAHBEnable
+                0x0000000000000000       0x18 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlGPIOAHBDisable
+                0x0000000000000000       0x1c /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlUSBPLLEnable
+                0x0000000000000000       0x10 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlUSBPLLDisable
+                0x0000000000000000       0x10 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlVoltageEventConfig
+                0x0000000000000000        0xc /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlVoltageEventStatus
+                0x0000000000000000        0xc /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlVoltageEventClear
+                0x0000000000000000       0x10 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlVCOGet
+                0x0000000000000000       0x78 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlNMIStatus
+                0x0000000000000000        0xc /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlNMIClear
+                0x0000000000000000       0x10 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlClockOutConfig
+                0x0000000000000000       0x10 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlAltClkConfig
+                0x0000000000000000        0xc /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .rodata.g_pppui32XTALtoVCO
+                0x0000000000000000      0x1b0 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .rodata.g_pui32VCOFrequencies
+                0x0000000000000000        0x8 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .rodata.g_sXTALtoMEMTIM
+                0x0000000000000000       0x30 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .rodata.g_pui32Xtals
+                0x0000000000000000       0x6c /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .comment       0x0000000000000000       0x71 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .ARM.attributes
+                0x0000000000000000       0x3b /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text          0x0000000000000000        0x0 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+ .data          0x0000000000000000        0x0 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+ .bss           0x0000000000000000        0x0 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+ .text.CPUcpsid
+                0x0000000000000000        0x8 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+ .text.CPUprimask
+                0x0000000000000000        0x6 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+ .text.CPUcpsie
+                0x0000000000000000        0x8 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+ .text.CPUwfi   0x0000000000000000        0x4 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+ .text.CPUbasepriSet
+                0x0000000000000000        0x6 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+ .text.CPUbasepriGet
+                0x0000000000000000        0x6 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+ .comment       0x0000000000000000       0x71 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+ .ARM.attributes
+                0x0000000000000000       0x3b /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+ .text          0x0000000000000000        0x0 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .data          0x0000000000000000        0x0 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .bss           0x0000000000000000        0x0 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .text._IntDefaultHandler
+                0x0000000000000000        0x2 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntMasterEnable
+                0x0000000000000000        0xe /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntMasterDisable
+                0x0000000000000000        0xe /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntRegister
+                0x0000000000000000       0x34 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntUnregister
+                0x0000000000000000       0x14 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntPriorityGroupingSet
+                0x0000000000000000       0x1c /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntPriorityGroupingGet
+                0x0000000000000000       0x24 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntPrioritySet
+                0x0000000000000000       0x2c /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntPriorityGet
+                0x0000000000000000       0x1c /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntEnable
+                0x0000000000000000       0x60 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntDisable
+                0x0000000000000000       0x60 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntIsEnabled
+                0x0000000000000000       0x64 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntPendSet
+                0x0000000000000000       0x50 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntPendClear
+                0x0000000000000000       0x40 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntPriorityMaskSet
+                0x0000000000000000        0x4 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntPriorityMaskGet
+                0x0000000000000000        0x4 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntTrigger
+                0x0000000000000000        0xc /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .rodata.g_pui32Priority
+                0x0000000000000000       0x20 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .rodata.g_pui32Dii16Regs
+                0x0000000000000000       0x14 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .rodata.g_pui32PendRegs
+                0x0000000000000000       0x14 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ vtable         0x0000000000000000      0x400 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .rodata.g_pui32Regs
+                0x0000000000000000       0x9c /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .rodata.g_pui32EnRegs
+                0x0000000000000000       0x14 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .rodata.g_pui32UnpendRegs
+                0x0000000000000000       0x14 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .comment       0x0000000000000000       0x71 /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .ARM.attributes
+                0x0000000000000000       0x3b /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .text          0x0000000000000000       0x4c /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_fixunssfdi.o)
+ .data          0x0000000000000000        0x0 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_fixunssfdi.o)
+ .bss           0x0000000000000000        0x0 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_fixunssfdi.o)
+ .debug_frame   0x0000000000000000       0x2c /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_fixunssfdi.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_fixunssfdi.o)
+ .text          0x0000000000000000      0x370 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_arm_addsubdf3.o)
+ .data          0x0000000000000000        0x0 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_arm_addsubdf3.o)
+ .bss           0x0000000000000000        0x0 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_arm_addsubdf3.o)
+ .debug_frame   0x0000000000000000       0xac /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x0000000000000000       0x22 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_arm_addsubdf3.o)
+ .text          0x0000000000000000      0x424 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_arm_muldivdf3.o)
+ .data          0x0000000000000000        0x0 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_arm_muldivdf3.o)
+ .bss           0x0000000000000000        0x0 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_arm_muldivdf3.o)
+ .debug_frame   0x0000000000000000       0x50 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x0000000000000000       0x22 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_arm_muldivdf3.o)
+ .text          0x0000000000000000       0x40 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_arm_fixunsdfsi.o)
+ .data          0x0000000000000000        0x0 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_arm_fixunsdfsi.o)
+ .bss           0x0000000000000000        0x0 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_arm_fixunsdfsi.o)
+ .debug_frame   0x0000000000000000       0x24 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_arm_fixunsdfsi.o)
+ .ARM.attributes
+                0x0000000000000000       0x22 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_arm_fixunsdfsi.o)
+ .text          0x0000000000000000        0x0 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-exit.o)
+ .data          0x0000000000000000        0x0 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-exit.o)
+ .bss           0x0000000000000000        0x0 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-exit.o)
+ .text.exit     0x0000000000000000       0x20 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-exit.o)
+ .debug_frame   0x0000000000000000       0x28 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-exit.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-exit.o)
+ .text          0x0000000000000000        0x0 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x0000000000000000        0x4 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-impure.o)
+ .text          0x0000000000000000        0x0 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-init.o)
+ .text.__libc_init_array
+                0x0000000000000000       0x50 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-init.o)
+ .debug_frame   0x0000000000000000       0x2c /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-init.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-memcpy.o)
+ .bss           0x0000000000000000        0x0 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-memcpy.o)
+ .text          0x0000000000000000        0x0 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-memset.o)
+ .text          0x0000000000000000        0x0 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-__call_atexit.o)
+ .data          0x0000000000000000        0x0 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-__call_atexit.o)
+ .bss           0x0000000000000000        0x0 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x0000000000000000       0xe8 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-__call_atexit.o)
+ .text          0x0000000000000000        0x0 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-atexit.o)
+ .data          0x0000000000000000        0x0 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-atexit.o)
+ .bss           0x0000000000000000        0x0 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-atexit.o)
+ .text          0x0000000000000000        0x0 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-fini.o)
+ .data          0x0000000000000000        0x0 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-fini.o)
+ .bss           0x0000000000000000        0x0 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-fini.o)
+ .text          0x0000000000000000        0x0 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-lock.o)
+ .data          0x0000000000000000        0x0 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-lock.o)
+ .bss           0x0000000000000000        0x0 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-lock.o)
+ .text.__retarget_lock_init
+                0x0000000000000000        0x4 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x0000000000000000        0x4 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-lock.o)
+ .text.__retarget_lock_close
+                0x0000000000000000        0x4 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x0000000000000000        0x4 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x0000000000000000        0x4 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x0000000000000000        0x4 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x0000000000000000        0x4 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-lock.o)
+ .text.__retarget_lock_release
+                0x0000000000000000        0x4 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-lock.o)
+ .text          0x0000000000000000        0x0 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-__atexit.o)
+ .data          0x0000000000000000        0x0 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-__atexit.o)
+ .bss           0x0000000000000000        0x0 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-__atexit.o)
+ .text          0x0000000000000000        0x0 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(_exit.o)
+ .data          0x0000000000000000        0x0 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(_exit.o)
+ .bss           0x0000000000000000        0x0 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(_exit.o)
+ .text._exit    0x0000000000000000        0x4 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(_exit.o)
+ .debug_frame   0x0000000000000000       0x20 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(_exit.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(_exit.o)
+ .text          0x0000000000000000        0x0 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ .data          0x0000000000000000        0x0 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ .bss           0x0000000000000000        0x0 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ .eh_frame      0x0000000000000000        0x4 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ .jcr           0x0000000000000000        0x4 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ .ARM.attributes
+                0x0000000000000000       0x34 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ .text          0x0000000000000000        0x0 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+ .data          0x0000000000000000        0x0 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+ .bss           0x0000000000000000        0x0 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+ .init          0x0000000000000000        0x8 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+ .fini          0x0000000000000000        0x8 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+ .ARM.attributes
+                0x0000000000000000       0x22 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x0000000000000000 0x0000000000040000 xr
+SRAM             0x0000000020000000 0x0000000000008000 xw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+LOAD /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+LOAD /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+LOAD ./freertos_demo.o
+LOAD ./led_task.o
+LOAD ./sensor_pwm.o
+LOAD ./tm4c123gh6pm_startup_ccs_gcc.o
+LOAD ./uartstdio.o
+LOAD ./ultrasonic2.o
+LOAD ./FreeRTOS/croutine.o
+LOAD ./FreeRTOS/event_groups.o
+LOAD ./FreeRTOS/list.o
+LOAD ./FreeRTOS/queue.o
+LOAD ./FreeRTOS/tasks.o
+LOAD ./FreeRTOS/timers.o
+LOAD ./FreeRTOS/portable/GCC/ARM_CM4F/port.o
+LOAD ./FreeRTOS/portable/MemMang/heap_2.o
+LOAD ./drivers/buttons.o
+LOAD ./drivers/rgb.o
+                0x0000000000000000                PROVIDE (_intvecs_base_address, 0x0)
+
+.intvecs        0x0000000000000000      0x26c
+ *(.intvecs)
+ .intvecs       0x0000000000000000      0x26c ./tm4c123gh6pm_startup_ccs_gcc.o
+                0x0000000000000000                g_pfnVectors
+                0x0000000020000000                PROVIDE (_vtable_base_address, 0x20000000)
+
+.vtable
+ *(.vtable)
+
+.text           0x0000000000000270     0x1bc4
+ CREATE_OBJECT_SYMBOLS
+ *(.text)
+ .text          0x0000000000000270       0x6c /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .text          0x00000000000002dc      0x134 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-memcpy.o)
+                0x00000000000002dc                memcpy
+ *(.text.*)
+ .text.vApplicationStackOverflowHook
+                0x0000000000000410        0x2 ./freertos_demo.o
+                0x0000000000000410                vApplicationStackOverflowHook
+ *fill*         0x0000000000000412        0x2 
+ .text.startup.main
+                0x0000000000000414       0x2c ./freertos_demo.o
+                0x0000000000000414                main
+ .text.GPIOPortA_Init
+                0x0000000000000440       0x7c ./sensor_pwm.o
+                0x0000000000000440                GPIOPortA_Init
+ .text.GPIOPortB_Init
+                0x00000000000004bc       0x40 ./sensor_pwm.o
+                0x00000000000004bc                GPIOPortB_Init
+ .text.GPIOPortA_Handler
+                0x00000000000004fc       0x30 ./sensor_pwm.o
+                0x00000000000004fc                GPIOPortA_Handler
+ .text.timer0A_delayMs
+                0x000000000000052c       0x94 ./sensor_pwm.o
+                0x000000000000052c                timer0A_delayMs
+ .text.EnableInterrupts
+                0x00000000000005c0        0x4 ./sensor_pwm.o
+                0x00000000000005c0                EnableInterrupts
+ .text.WaitForInterrupt
+                0x00000000000005c4        0x4 ./sensor_pwm.o
+                0x00000000000005c4                WaitForInterrupt
+ .text.sensorpwm
+                0x00000000000005c8       0x2a ./sensor_pwm.o
+                0x00000000000005c8                sensorpwm
+ *fill*         0x00000000000005f2        0x2 
+ .text.SENSORInit
+                0x00000000000005f4       0x3c ./sensor_pwm.o
+                0x00000000000005f4                SENSORInit
+ .text.NmiSR    0x0000000000000630        0x2 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .text.FaultISR
+                0x0000000000000632        0x2 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .text.IntDefaultHandler
+                0x0000000000000634        0x2 ./tm4c123gh6pm_startup_ccs_gcc.o
+ *fill*         0x0000000000000636        0x2 
+ .text.ResetISR
+                0x0000000000000638       0x4c ./tm4c123gh6pm_startup_ccs_gcc.o
+                0x0000000000000638                ResetISR
+ .text.GPIOPortD_Init
+                0x0000000000000684       0x34 ./ultrasonic2.o
+                0x0000000000000684                GPIOPortD_Init
+ .text.GPIO_PORTF_Init
+                0x00000000000006b8       0xa0 ./ultrasonic2.o
+                0x00000000000006b8                GPIO_PORTF_Init
+ .text.timer1A_Init
+                0x0000000000000758       0x5c ./ultrasonic2.o
+                0x0000000000000758                timer1A_Init
+ .text.timer2A_Init
+                0x00000000000007b4       0x5c ./ultrasonic2.o
+                0x00000000000007b4                timer2A_Init
+ .text.timer_Enable
+                0x0000000000000810       0x10 ./ultrasonic2.o
+                0x0000000000000810                timer_Enable
+ .text.Timer1A_Handler
+                0x0000000000000820       0x18 ./ultrasonic2.o
+                0x0000000000000820                Timer1A_Handler
+ .text.Timer2A_Handler
+                0x0000000000000838       0x48 ./ultrasonic2.o
+                0x0000000000000838                Timer2A_Handler
+ .text.timer4_Init
+                0x0000000000000880       0x30 ./ultrasonic2.o
+                0x0000000000000880                timer4_Init
+ .text.task1    0x00000000000008b0       0x50 ./ultrasonic2.o
+                0x00000000000008b0                task1
+ .text.GPIOPortF_Handler
+                0x0000000000000900       0x74 ./ultrasonic2.o
+                0x0000000000000900                GPIOPortF_Handler
+ .text.ULTRASONIC2Init
+                0x0000000000000974       0x3c ./ultrasonic2.o
+                0x0000000000000974                ULTRASONIC2Init
+ .text.vListInitialise
+                0x00000000000009b0       0x16 ./FreeRTOS/list.o
+                0x00000000000009b0                vListInitialise
+ .text.vListInitialiseItem
+                0x00000000000009c6        0x6 ./FreeRTOS/list.o
+                0x00000000000009c6                vListInitialiseItem
+ .text.vListInsertEnd
+                0x00000000000009cc       0x18 ./FreeRTOS/list.o
+                0x00000000000009cc                vListInsertEnd
+ .text.vListInsert
+                0x00000000000009e4       0x2e ./FreeRTOS/list.o
+                0x00000000000009e4                vListInsert
+ .text.uxListRemove
+                0x0000000000000a12       0x20 ./FreeRTOS/list.o
+                0x0000000000000a12                uxListRemove
+ .text.prvCopyDataToQueue
+                0x0000000000000a32       0x66 ./FreeRTOS/queue.o
+ .text.prvCopyDataFromQueue
+                0x0000000000000a98       0x2a ./FreeRTOS/queue.o
+ .text.prvUnlockQueue
+                0x0000000000000ac2       0x70 ./FreeRTOS/queue.o
+ *fill*         0x0000000000000b32        0x2 
+ .text.xQueueGenericReset
+                0x0000000000000b34       0x6c ./FreeRTOS/queue.o
+                0x0000000000000b34                xQueueGenericReset
+ .text.xQueueGenericCreate
+                0x0000000000000ba0       0x34 ./FreeRTOS/queue.o
+                0x0000000000000ba0                xQueueGenericCreate
+ .text.xQueueGenericSend
+                0x0000000000000bd4       0xf4 ./FreeRTOS/queue.o
+                0x0000000000000bd4                xQueueGenericSend
+ .text.xQueueGenericSendFromISR
+                0x0000000000000cc8       0x68 ./FreeRTOS/queue.o
+                0x0000000000000cc8                xQueueGenericSendFromISR
+ .text.xQueueGenericReceive
+                0x0000000000000d30      0x134 ./FreeRTOS/queue.o
+                0x0000000000000d30                xQueueGenericReceive
+ .text.vQueueAddToRegistry
+                0x0000000000000e64       0x24 ./FreeRTOS/queue.o
+                0x0000000000000e64                vQueueAddToRegistry
+ .text.vQueueWaitForMessageRestricted
+                0x0000000000000e88       0x46 ./FreeRTOS/queue.o
+                0x0000000000000e88                vQueueWaitForMessageRestricted
+ *fill*         0x0000000000000ece        0x2 
+ .text.prvResetNextTaskUnblockTime
+                0x0000000000000ed0       0x24 ./FreeRTOS/tasks.o
+ .text.prvAddCurrentTaskToDelayedList
+                0x0000000000000ef4       0x74 ./FreeRTOS/tasks.o
+ .text.xTaskCreate
+                0x0000000000000f68      0x1b8 ./FreeRTOS/tasks.o
+                0x0000000000000f68                xTaskCreate
+ .text.vTaskStartScheduler
+                0x0000000000001120       0x68 ./FreeRTOS/tasks.o
+                0x0000000000001120                vTaskStartScheduler
+ .text.vTaskSuspendAll
+                0x0000000000001188       0x10 ./FreeRTOS/tasks.o
+                0x0000000000001188                vTaskSuspendAll
+ .text.xTaskGetTickCount
+                0x0000000000001198        0xc ./FreeRTOS/tasks.o
+                0x0000000000001198                xTaskGetTickCount
+ .text.xTaskIncrementTick
+                0x00000000000011a4       0xe8 ./FreeRTOS/tasks.o
+                0x00000000000011a4                xTaskIncrementTick
+ .text.xTaskResumeAll
+                0x000000000000128c       0xd0 ./FreeRTOS/tasks.o
+                0x000000000000128c                xTaskResumeAll
+ .text.vTaskDelayUntil
+                0x000000000000135c       0x58 ./FreeRTOS/tasks.o
+                0x000000000000135c                vTaskDelayUntil
+ .text.prvIdleTask
+                0x00000000000013b4       0x54 ./FreeRTOS/tasks.o
+ .text.vTaskSwitchContext
+                0x0000000000001408       0x90 ./FreeRTOS/tasks.o
+                0x0000000000001408                vTaskSwitchContext
+ .text.vTaskPlaceOnEventList
+                0x0000000000001498       0x20 ./FreeRTOS/tasks.o
+                0x0000000000001498                vTaskPlaceOnEventList
+ .text.vTaskPlaceOnEventListRestricted
+                0x00000000000014b8       0x28 ./FreeRTOS/tasks.o
+                0x00000000000014b8                vTaskPlaceOnEventListRestricted
+ .text.xTaskRemoveFromEventList
+                0x00000000000014e0       0x6c ./FreeRTOS/tasks.o
+                0x00000000000014e0                xTaskRemoveFromEventList
+ .text.vTaskSetTimeOutState
+                0x000000000000154c       0x18 ./FreeRTOS/tasks.o
+                0x000000000000154c                vTaskSetTimeOutState
+ .text.xTaskCheckForTimeOut
+                0x0000000000001564       0x4c ./FreeRTOS/tasks.o
+                0x0000000000001564                xTaskCheckForTimeOut
+ .text.vTaskMissedYield
+                0x00000000000015b0        0xc ./FreeRTOS/tasks.o
+                0x00000000000015b0                vTaskMissedYield
+ .text.xTaskGetSchedulerState
+                0x00000000000015bc       0x20 ./FreeRTOS/tasks.o
+                0x00000000000015bc                xTaskGetSchedulerState
+ .text.vTaskPriorityInherit
+                0x00000000000015dc       0x70 ./FreeRTOS/tasks.o
+                0x00000000000015dc                vTaskPriorityInherit
+ .text.xTaskPriorityDisinherit
+                0x000000000000164c       0x54 ./FreeRTOS/tasks.o
+                0x000000000000164c                xTaskPriorityDisinherit
+ .text.pvTaskIncrementMutexHeldCount
+                0x00000000000016a0       0x18 ./FreeRTOS/tasks.o
+                0x00000000000016a0                pvTaskIncrementMutexHeldCount
+ .text.prvCheckForValidListAndQueue
+                0x00000000000016b8       0x58 ./FreeRTOS/timers.o
+ .text.prvInsertTimerInActiveList
+                0x0000000000001710       0x3c ./FreeRTOS/timers.o
+ .text.xTimerCreateTimerTask
+                0x000000000000174c       0x38 ./FreeRTOS/timers.o
+                0x000000000000174c                xTimerCreateTimerTask
+ .text.xTimerGenericCommand
+                0x0000000000001784       0x44 ./FreeRTOS/timers.o
+                0x0000000000001784                xTimerGenericCommand
+ .text.prvSwitchTimerLists
+                0x00000000000017c8       0x68 ./FreeRTOS/timers.o
+ .text.prvTimerTask
+                0x0000000000001830      0x188 ./FreeRTOS/timers.o
+ .text.prvTaskExitError
+                0x00000000000019b8       0x12 ./FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ *fill*         0x00000000000019ca        0x2 
+ .text.prvPortStartFirstTask
+                0x00000000000019cc       0x20 ./FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .text.vPortEnableVFP
+                0x00000000000019ec       0x14 ./FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .text.pxPortInitialiseStack
+                0x0000000000001a00       0x2c ./FreeRTOS/portable/GCC/ARM_CM4F/port.o
+                0x0000000000001a00                pxPortInitialiseStack
+ *fill*         0x0000000000001a2c        0x4 
+ .text.vPortSVCHandler
+                0x0000000000001a30       0x24 ./FreeRTOS/portable/GCC/ARM_CM4F/port.o
+                0x0000000000001a30                vPortSVCHandler
+ .text.vPortEnterCritical
+                0x0000000000001a54       0x20 ./FreeRTOS/portable/GCC/ARM_CM4F/port.o
+                0x0000000000001a54                vPortEnterCritical
+ .text.vPortExitCritical
+                0x0000000000001a74       0x14 ./FreeRTOS/portable/GCC/ARM_CM4F/port.o
+                0x0000000000001a74                vPortExitCritical
+ *fill*         0x0000000000001a88        0x8 
+ .text.xPortPendSVHandler
+                0x0000000000001a90       0x64 ./FreeRTOS/portable/GCC/ARM_CM4F/port.o
+                0x0000000000001a90                xPortPendSVHandler
+ .text.xPortSysTickHandler
+                0x0000000000001af4       0x2c ./FreeRTOS/portable/GCC/ARM_CM4F/port.o
+                0x0000000000001af4                xPortSysTickHandler
+ .text.vPortSetupTimerInterrupt
+                0x0000000000001b20       0x14 ./FreeRTOS/portable/GCC/ARM_CM4F/port.o
+                0x0000000000001b20                vPortSetupTimerInterrupt
+ .text.xPortStartScheduler
+                0x0000000000001b34       0x40 ./FreeRTOS/portable/GCC/ARM_CM4F/port.o
+                0x0000000000001b34                xPortStartScheduler
+ .text.pvPortMalloc
+                0x0000000000001b74       0xb4 ./FreeRTOS/portable/MemMang/heap_2.o
+                0x0000000000001b74                pvPortMalloc
+ .text.vPortFree
+                0x0000000000001c28       0x40 ./FreeRTOS/portable/MemMang/heap_2.o
+                0x0000000000001c28                vPortFree
+ .text.memset   0x0000000000001c68       0x9c /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-memset.o)
+                0x0000000000001c68                memset
+ .text.startup.register_fini
+                0x0000000000001d04       0x14 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-__call_atexit.o)
+ .text.atexit   0x0000000000001d18        0xc /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-atexit.o)
+                0x0000000000001d18                atexit
+ .text.__libc_fini_array
+                0x0000000000001d24       0x34 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-fini.o)
+                0x0000000000001d24                __libc_fini_array
+ .text.__retarget_lock_acquire_recursive
+                0x0000000000001d58        0x4 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-lock.o)
+                0x0000000000001d58                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_release_recursive
+                0x0000000000001d5c        0x4 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-lock.o)
+                0x0000000000001d5c                __retarget_lock_release_recursive
+ .text.__register_exitproc
+                0x0000000000001d60       0xc4 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-__atexit.o)
+                0x0000000000001d60                __register_exitproc
+                0x0000000000001e24                . = ALIGN (0x4)
+ *(.ctors)
+                0x0000000000001e24                . = ALIGN (0x4)
+ *(.dtors)
+                0x0000000000001e24                . = ALIGN (0x4)
+                0x0000000000001e24                __init_array_start = .
+ *(.init_array*)
+ .init_array    0x0000000000001e24        0x4 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .init_array.00000
+                0x0000000000001e28        0x4 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-__call_atexit.o)
+                0x0000000000001e2c                __init_array_end = .
+ *(.init)
+ .init          0x0000000000001e2c        0x4 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+                0x0000000000001e2c                _init
+ *(.fini*)
+ .fini          0x0000000000001e30        0x4 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+                0x0000000000001e30                _fini
+                [!provide]                        PROVIDE (__etext, .)
+                [!provide]                        PROVIDE (_etext, .)
+                [!provide]                        PROVIDE (etext, .)
+
+.glue_7         0x0000000000001e34        0x0
+ .glue_7        0x0000000000001e34        0x0 linker stubs
+
+.glue_7t        0x0000000000001e34        0x0
+ .glue_7t       0x0000000000001e34        0x0 linker stubs
+
+.vfp11_veneer   0x0000000000001e34        0x0
+ .vfp11_veneer  0x0000000000001e34        0x0 linker stubs
+
+.v4_bx          0x0000000000001e34        0x0
+ .v4_bx         0x0000000000001e34        0x0 linker stubs
+
+.iplt           0x0000000000001e34        0x0
+ .iplt          0x0000000000001e34        0x0 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+
+.rodata         0x0000000000001e34       0x24
+ *(.rodata)
+ *(.rodata*)
+ .rodata.SENSORInit.str1.1
+                0x0000000000001e34        0x7 ./sensor_pwm.o
+ .rodata.ULTRASONIC2Init.str1.1
+                0x0000000000001e3b        0x7 ./ultrasonic2.o
+ .rodata.vTaskStartScheduler.str1.1
+                0x0000000000001e42        0x5 ./FreeRTOS/tasks.o
+ .rodata.prvCheckForValidListAndQueue.str1.1
+                0x0000000000001e47        0x5 ./FreeRTOS/timers.o
+ .rodata.xTimerCreateTimerTask.str1.1
+                0x0000000000001e4c        0x8 ./FreeRTOS/timers.o
+ .rodata._global_impure_ptr
+                0x0000000000001e54        0x4 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-impure.o)
+                0x0000000000001e54                _global_impure_ptr
+
+.eh_frame       0x0000000000001e58        0x0
+ .eh_frame      0x0000000000001e58        0x0 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+
+.rel.dyn        0x0000000000001e58        0x0
+ .rel.iplt      0x0000000000001e58        0x0 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+
+.data           0x0000000020000000      0x434 load address 0x0000000000001e58
+                0x0000000000001e58                __data_load__ = LOADADDR (.data)
+                0x0000000020000000                __data_start__ = .
+ *(.data)
+ *(.data*)
+ .data.uxCriticalNesting
+                0x0000000020000000        0x4 ./FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .data.xFreeBytesRemaining
+                0x0000000020000004        0x4 ./FreeRTOS/portable/MemMang/heap_2.o
+ .data.impure_data
+                0x0000000020000008      0x428 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-impure.o)
+ .data.__atexit_recursive_mutex
+                0x0000000020000430        0x4 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-__call_atexit.o)
+                0x0000000020000430                __atexit_recursive_mutex
+                0x0000000020000434                . = ALIGN (0x4)
+                0x0000000020000434                __data_end__ = .
+
+.jcr            0x0000000020000434        0x0 load address 0x000000000000228c
+ .jcr           0x0000000020000434        0x0 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+
+.igot.plt       0x0000000020000434        0x0 load address 0x000000000000228c
+ .igot.plt      0x0000000020000434        0x0 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+
+.ARM.exidx      0x000000000000228c        0x0
+                0x000000000000228c                __exidx_start = .
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x000000000000228c                __exidx_end = .
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.bss            0x0000000020000434     0x2b28
+                0x0000000020000434                __bss_start__ = .
+ *(.shbss)
+ *(.bss)
+ .bss           0x0000000020000434       0x1c /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ *(.bss.*)
+ .bss.count     0x0000000020000450        0x4 ./sensor_pwm.o
+                0x0000000020000450                count
+ .bss.pui32Stack
+                0x0000000020000454      0x200 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .bss.count1    0x0000000020000654        0x4 ./ultrasonic2.o
+                0x0000000020000654                count1
+ .bss.pxCurrentTCB
+                0x0000000020000658        0x4 ./FreeRTOS/tasks.o
+                0x0000000020000658                pxCurrentTCB
+ .bss.pxDelayedTaskList
+                0x000000002000065c        0x4 ./FreeRTOS/tasks.o
+ .bss.pxOverflowDelayedTaskList
+                0x0000000020000660        0x4 ./FreeRTOS/tasks.o
+ .bss.pxReadyTasksLists
+                0x0000000020000664       0xa0 ./FreeRTOS/tasks.o
+ .bss.uxCurrentNumberOfTasks
+                0x0000000020000704        0x4 ./FreeRTOS/tasks.o
+ .bss.uxDeletedTasksWaitingCleanUp
+                0x0000000020000708        0x4 ./FreeRTOS/tasks.o
+ .bss.uxPendedTicks
+                0x000000002000070c        0x4 ./FreeRTOS/tasks.o
+ .bss.uxSchedulerSuspended
+                0x0000000020000710        0x4 ./FreeRTOS/tasks.o
+ .bss.uxTaskNumber
+                0x0000000020000714        0x4 ./FreeRTOS/tasks.o
+ .bss.uxTopReadyPriority
+                0x0000000020000718        0x4 ./FreeRTOS/tasks.o
+ .bss.xDelayedTaskList1
+                0x000000002000071c       0x14 ./FreeRTOS/tasks.o
+ .bss.xDelayedTaskList2
+                0x0000000020000730       0x14 ./FreeRTOS/tasks.o
+ .bss.xIdleTaskHandle
+                0x0000000020000744        0x4 ./FreeRTOS/tasks.o
+ .bss.xNextTaskUnblockTime
+                0x0000000020000748        0x4 ./FreeRTOS/tasks.o
+ .bss.xNumOfOverflows
+                0x000000002000074c        0x4 ./FreeRTOS/tasks.o
+ .bss.xPendingReadyList
+                0x0000000020000750       0x14 ./FreeRTOS/tasks.o
+ .bss.xSchedulerRunning
+                0x0000000020000764        0x4 ./FreeRTOS/tasks.o
+ .bss.xSuspendedTaskList
+                0x0000000020000768       0x14 ./FreeRTOS/tasks.o
+ .bss.xTasksWaitingTermination
+                0x000000002000077c       0x14 ./FreeRTOS/tasks.o
+ .bss.xTickCount
+                0x0000000020000790        0x4 ./FreeRTOS/tasks.o
+ .bss.xYieldPending
+                0x0000000020000794        0x4 ./FreeRTOS/tasks.o
+ .bss.pxCurrentTimerList
+                0x0000000020000798        0x4 ./FreeRTOS/timers.o
+ .bss.pxOverflowTimerList
+                0x000000002000079c        0x4 ./FreeRTOS/timers.o
+ .bss.xActiveTimerList1
+                0x00000000200007a0       0x14 ./FreeRTOS/timers.o
+ .bss.xActiveTimerList2
+                0x00000000200007b4       0x14 ./FreeRTOS/timers.o
+ .bss.xLastTime.6252
+                0x00000000200007c8        0x4 ./FreeRTOS/timers.o
+ .bss.xTimerQueue
+                0x00000000200007cc        0x4 ./FreeRTOS/timers.o
+ .bss.xTimerTaskHandle
+                0x00000000200007d0        0x4 ./FreeRTOS/timers.o
+ .bss.ucHeap    0x00000000200007d4     0x2710 ./FreeRTOS/portable/MemMang/heap_2.o
+ .bss.xEnd      0x0000000020002ee4        0x8 ./FreeRTOS/portable/MemMang/heap_2.o
+ .bss.xHeapHasBeenInitialised.5979
+                0x0000000020002eec        0x4 ./FreeRTOS/portable/MemMang/heap_2.o
+ .bss.xStart    0x0000000020002ef0        0x8 ./FreeRTOS/portable/MemMang/heap_2.o
+ *(COMMON)
+ COMMON         0x0000000020002ef8        0x4 ./sensor_pwm.o
+                0x0000000020002ef8                g_pSENSORQueue
+ COMMON         0x0000000020002efc       0x14 ./ultrasonic2.o
+                0x0000000020002efc                g_pULTRA2Queue
+                0x0000000020002f00                startTick
+                0x0000000020002f04                time
+                0x0000000020002f08                endTick
+                0x0000000020002f0c                deltaTick
+ COMMON         0x0000000020002f10       0x28 ./FreeRTOS/queue.o
+                0x0000000020002f10                xQueueRegistry
+ COMMON         0x0000000020002f38       0x21 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-lock.o)
+                0x0000000020002f38                __lock___atexit_recursive_mutex
+                0x0000000020002f3c                __lock___arc4random_mutex
+                0x0000000020002f40                __lock___env_recursive_mutex
+                0x0000000020002f44                __lock___sinit_recursive_mutex
+                0x0000000020002f48                __lock___malloc_recursive_mutex
+                0x0000000020002f4c                __lock___at_quick_exit_mutex
+                0x0000000020002f50                __lock___dd_hash_mutex
+                0x0000000020002f54                __lock___tz_mutex
+                0x0000000020002f58                __lock___sfp_recursive_mutex
+                0x0000000020002f5c                . = ALIGN (0x4)
+ *fill*         0x0000000020002f59        0x3 
+                0x0000000020002f5c                __bss_end__ = .
+
+.heap           0x0000000020002f5c        0x0
+                0x0000000020002f5c                __heap_start__ = .
+                0x0000000020002f5c                end = __heap_start__
+                0x0000000020002f5c                _end = end
+                0x0000000020002f5c                __end = end
+ *(.heap)
+                0x0000000020002f5c                __heap_end__ = .
+                0x0000000020002f5c                __HeapLimit = __heap_end__
+
+.stack          0x0000000020002f60        0x0
+                0x0000000020002f60                _stack = .
+                0x0000000020002f60                __stack = .
+ *(.stack)
+LOAD /home/mouli/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a
+START GROUP
+LOAD /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a
+LOAD /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a
+LOAD /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a
+END GROUP
+START GROUP
+LOAD /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a
+LOAD /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a
+LOAD /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a
+END GROUP
+LOAD /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+LOAD /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+OUTPUT(freertos_on_tm4c123.out elf32-littlearm)
+
+.ARM.attributes
+                0x0000000000000000       0x30
+ .ARM.attributes
+                0x0000000000000000       0x22 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+ .ARM.attributes
+                0x0000000000000022       0x34 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .ARM.attributes
+                0x0000000000000056       0x39 ./freertos_demo.o
+ .ARM.attributes
+                0x000000000000008f       0x39 ./sensor_pwm.o
+ .ARM.attributes
+                0x00000000000000c8       0x39 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .ARM.attributes
+                0x0000000000000101       0x39 ./ultrasonic2.o
+ .ARM.attributes
+                0x000000000000013a       0x39 ./FreeRTOS/list.o
+ .ARM.attributes
+                0x0000000000000173       0x39 ./FreeRTOS/queue.o
+ .ARM.attributes
+                0x00000000000001ac       0x39 ./FreeRTOS/tasks.o
+ .ARM.attributes
+                0x00000000000001e5       0x39 ./FreeRTOS/timers.o
+ .ARM.attributes
+                0x000000000000021e       0x39 ./FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .ARM.attributes
+                0x0000000000000257       0x39 ./FreeRTOS/portable/MemMang/heap_2.o
+ .ARM.attributes
+                0x0000000000000290       0x34 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000000000002c4       0x20 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x00000000000002e4       0x34 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000000000000318       0x34 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x000000000000034c       0x34 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x0000000000000380       0x34 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-fini.o)
+ .ARM.attributes
+                0x00000000000003b4       0x34 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-lock.o)
+ .ARM.attributes
+                0x00000000000003e8       0x34 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-__atexit.o)
+
+.comment        0x0000000000000000       0x7f
+ .comment       0x0000000000000000       0x7f ./freertos_demo.o
+                                         0x80 (size before relaxing)
+ .comment       0x000000000000007f       0x80 ./sensor_pwm.o
+ .comment       0x000000000000007f       0x80 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .comment       0x000000000000007f       0x80 ./ultrasonic2.o
+ .comment       0x000000000000007f       0x80 ./FreeRTOS/list.o
+ .comment       0x000000000000007f       0x80 ./FreeRTOS/queue.o
+ .comment       0x000000000000007f       0x80 ./FreeRTOS/tasks.o
+ .comment       0x000000000000007f       0x80 ./FreeRTOS/timers.o
+ .comment       0x000000000000007f       0x80 ./FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .comment       0x000000000000007f       0x80 ./FreeRTOS/portable/MemMang/heap_2.o
+
+.debug_info     0x0000000000000000     0x7f34
+ .debug_info    0x0000000000000000      0x11a ./freertos_demo.o
+ .debug_info    0x000000000000011a      0x9e5 ./sensor_pwm.o
+ .debug_info    0x0000000000000aff      0x193 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .debug_info    0x0000000000000c92      0xa5c ./ultrasonic2.o
+ .debug_info    0x00000000000016ee      0xaca ./FreeRTOS/list.o
+ .debug_info    0x00000000000021b8     0x186d ./FreeRTOS/queue.o
+ .debug_info    0x0000000000003a25     0x2410 ./FreeRTOS/tasks.o
+ .debug_info    0x0000000000005e35     0x12f2 ./FreeRTOS/timers.o
+ .debug_info    0x0000000000007127      0x2ea ./FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .debug_info    0x0000000000007411      0xb23 ./FreeRTOS/portable/MemMang/heap_2.o
+
+.debug_abbrev   0x0000000000000000     0x155b
+ .debug_abbrev  0x0000000000000000       0x95 ./freertos_demo.o
+ .debug_abbrev  0x0000000000000095      0x1fd ./sensor_pwm.o
+ .debug_abbrev  0x0000000000000292       0xd7 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .debug_abbrev  0x0000000000000369      0x1ec ./ultrasonic2.o
+ .debug_abbrev  0x0000000000000555      0x1ff ./FreeRTOS/list.o
+ .debug_abbrev  0x0000000000000754      0x30c ./FreeRTOS/queue.o
+ .debug_abbrev  0x0000000000000a60      0x3f1 ./FreeRTOS/tasks.o
+ .debug_abbrev  0x0000000000000e51      0x2eb ./FreeRTOS/timers.o
+ .debug_abbrev  0x000000000000113c      0x179 ./FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .debug_abbrev  0x00000000000012b5      0x2a6 ./FreeRTOS/portable/MemMang/heap_2.o
+
+.debug_aranges  0x0000000000000000      0x558
+ .debug_aranges
+                0x0000000000000000       0x28 ./freertos_demo.o
+ .debug_aranges
+                0x0000000000000028       0x60 ./sensor_pwm.o
+ .debug_aranges
+                0x0000000000000088       0x38 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .debug_aranges
+                0x00000000000000c0       0x70 ./ultrasonic2.o
+ .debug_aranges
+                0x0000000000000130       0x40 ./FreeRTOS/list.o
+ .debug_aranges
+                0x0000000000000170       0xf8 ./FreeRTOS/queue.o
+ .debug_aranges
+                0x0000000000000268      0x1b8 ./FreeRTOS/tasks.o
+ .debug_aranges
+                0x0000000000000420       0x88 ./FreeRTOS/timers.o
+ .debug_aranges
+                0x00000000000004a8       0x78 ./FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .debug_aranges
+                0x0000000000000520       0x38 ./FreeRTOS/portable/MemMang/heap_2.o
+
+.debug_ranges   0x0000000000000000      0x728
+ .debug_ranges  0x0000000000000000       0x18 ./freertos_demo.o
+ .debug_ranges  0x0000000000000018       0x50 ./sensor_pwm.o
+ .debug_ranges  0x0000000000000068       0x28 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .debug_ranges  0x0000000000000090       0x60 ./ultrasonic2.o
+ .debug_ranges  0x00000000000000f0       0x30 ./FreeRTOS/list.o
+ .debug_ranges  0x0000000000000120      0x1c8 ./FreeRTOS/queue.o
+ .debug_ranges  0x00000000000002e8      0x298 ./FreeRTOS/tasks.o
+ .debug_ranges  0x0000000000000580       0xe8 ./FreeRTOS/timers.o
+ .debug_ranges  0x0000000000000668       0x68 ./FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .debug_ranges  0x00000000000006d0       0x58 ./FreeRTOS/portable/MemMang/heap_2.o
+
+.debug_line     0x0000000000000000     0x2786
+ .debug_line    0x0000000000000000      0x1a2 ./freertos_demo.o
+ .debug_line    0x00000000000001a2      0x330 ./sensor_pwm.o
+ .debug_line    0x00000000000004d2      0x174 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .debug_line    0x0000000000000646      0x36a ./ultrasonic2.o
+ .debug_line    0x00000000000009b0      0x2db ./FreeRTOS/list.o
+ .debug_line    0x0000000000000c8b      0x6b4 ./FreeRTOS/queue.o
+ .debug_line    0x000000000000133f      0xa5c ./FreeRTOS/tasks.o
+ .debug_line    0x0000000000001d9b      0x45a ./FreeRTOS/timers.o
+ .debug_line    0x00000000000021f5      0x2ee ./FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .debug_line    0x00000000000024e3      0x2a3 ./FreeRTOS/portable/MemMang/heap_2.o
+
+.debug_str      0x0000000000000000     0x222d
+ .debug_str     0x0000000000000000      0x21a ./freertos_demo.o
+                                        0x25c (size before relaxing)
+ .debug_str     0x000000000000021a      0x4a6 ./sensor_pwm.o
+                                        0x6c2 (size before relaxing)
+ .debug_str     0x00000000000006c0       0xbb ./tm4c123gh6pm_startup_ccs_gcc.o
+                                        0x28c (size before relaxing)
+ .debug_str     0x000000000000077b       0xe2 ./ultrasonic2.o
+                                        0x6f6 (size before relaxing)
+ .debug_str     0x000000000000085d      0x130 ./FreeRTOS/list.o
+                                        0x704 (size before relaxing)
+ .debug_str     0x000000000000098d      0x5b8 ./FreeRTOS/queue.o
+                                        0xc85 (size before relaxing)
+ .debug_str     0x0000000000000f45      0xc4b ./FreeRTOS/tasks.o
+                                       0x1423 (size before relaxing)
+ .debug_str     0x0000000000001b90      0x423 ./FreeRTOS/timers.o
+                                        0xb31 (size before relaxing)
+ .debug_str     0x0000000000001fb3      0x129 ./FreeRTOS/portable/GCC/ARM_CM4F/port.o
+                                        0x394 (size before relaxing)
+ .debug_str     0x00000000000020dc      0x151 ./FreeRTOS/portable/MemMang/heap_2.o
+                                        0x74f (size before relaxing)
+
+.debug_frame    0x0000000000000000      0xfb8
+ .debug_frame   0x0000000000000000       0x38 ./freertos_demo.o
+ .debug_frame   0x0000000000000038       0xb8 ./sensor_pwm.o
+ .debug_frame   0x00000000000000f0       0x50 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .debug_frame   0x0000000000000140       0xd4 ./ultrasonic2.o
+ .debug_frame   0x0000000000000214       0x6c ./FreeRTOS/list.o
+ .debug_frame   0x0000000000000280      0x300 ./FreeRTOS/queue.o
+ .debug_frame   0x0000000000000580      0x58c ./FreeRTOS/tasks.o
+ .debug_frame   0x0000000000000b0c      0x190 ./FreeRTOS/timers.o
+ .debug_frame   0x0000000000000c9c       0xe0 ./FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .debug_frame   0x0000000000000d7c       0x74 ./FreeRTOS/portable/MemMang/heap_2.o
+ .debug_frame   0x0000000000000df0       0x34 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-memset.o)
+ .debug_frame   0x0000000000000e24       0x5c /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-__call_atexit.o)
+ .debug_frame   0x0000000000000e80       0x20 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-atexit.o)
+ .debug_frame   0x0000000000000ea0       0x34 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-fini.o)
+ .debug_frame   0x0000000000000ed4       0xb0 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-lock.o)
+ .debug_frame   0x0000000000000f84       0x34 /home/mouli/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a(lib_a-__atexit.o)
+
+.debug_loc      0x0000000000000000     0x22ef
+ .debug_loc     0x0000000000000000       0x1e ./tm4c123gh6pm_startup_ccs_gcc.o
+ .debug_loc     0x000000000000001e       0x86 ./FreeRTOS/list.o
+ .debug_loc     0x00000000000000a4      0xb0f ./FreeRTOS/queue.o
+ .debug_loc     0x0000000000000bb3     0x1069 ./FreeRTOS/tasks.o
+ .debug_loc     0x0000000000001c1c      0x4be ./FreeRTOS/timers.o
+ .debug_loc     0x00000000000020da       0x31 ./FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .debug_loc     0x000000000000210b      0x1e4 ./FreeRTOS/portable/MemMang/heap_2.o
